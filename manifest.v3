@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="enabled">yes</value>
+  <value name="enabled">no</value>
   <value name="system_package">no</value>
   <value name="version">1.0</value>
   <value name="name">Sourabh_github_190926Project</value>
@@ -9,18 +9,18 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="LowerFSPackage">4.0</value>
+    <value name="LowerFSPackage">2.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">4</value>
+  <value name="build">6</value>
   <null name="description"/>
   <value name="created_date">19-09-2026 11:44:07 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-09-19T11:46:29.65735446Z</value>
+  <value name="lastUpdated">2026-09-19T11:50:57.135186113Z</value>
   <value name="wmProjectId">fl6748b1e5160494bbe2467f</value>
   <value name="creator">sourabh harkawat</value>
 </Values>
